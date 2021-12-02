@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+7c1c6745792fd6d33ed26a8e8cf3afc3cd43cd6e refs/remotes/origin/cart
+aa2b08edac22894442e6ba333856194a3de06a41 refs/remotes/origin/checkout
+ff5a268a1fb4f21531fefe0a3df7022d335da8aa refs/remotes/origin/hello-world
+db52ad25c289bc8c9eef10d07bd5fe87027f7662 refs/remotes/origin/master
+cf9eccfba032f51b7471ed8ba52d3dd857179c2b refs/remotes/origin/shop
